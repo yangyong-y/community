@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "prefix",
+      "type": "java.lang.String",
+      "description": "Description for prefix."
+    },
+    {
+      "name": "check-template-location",
+      "type": "java.lang.String",
+      "description": "Description for check-template-location."
+    }
+  ] }
